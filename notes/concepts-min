@@ -1,0 +1,4 @@
+- A system is something that can have a state;
+- A choice exists when more than one future state is possible;
+- A decision reduces multiple possible states into one selected state;
+- An autonomous system can change how it decides.
