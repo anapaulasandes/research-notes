@@ -12,9 +12,7 @@ Definitions are expected to evolve.
 
 ## Why?
 
-For centuries, decision theory has largely been developed with humans in mind.
-
-Today, we are entering a world populated by increasingly autonomous artificial systems.
+We are entering a world populated by increasingly autonomous artificial systems.
 
 Some of these systems already make decisions that affect millions of people.
 
