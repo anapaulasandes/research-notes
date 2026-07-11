@@ -4,7 +4,7 @@ This repository is a public research notebook.
 
 These notes exist to explore the question:
 
-> **What are the minimum principles required for intelligent systems to perceive, decide, learn and adapt?**
+> **What are the minimum principles required for systems to perceive, decide, learn and adapt?**
 
 Definitions are expected to evolve.
 
