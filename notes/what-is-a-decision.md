@@ -165,7 +165,3 @@ These references will be revisited after our own understanding becomes more matu
 ---
 
 > Every definition in this repository is provisional.
->
-> The objective is not to be right.
->
-> The objective is to become less wrong.
