@@ -6,7 +6,7 @@ What is the minimum capability that distinguishes a system capable of making dec
 
 Although it can produce different actions (e.g., turn the heating on or off), those actions are entirely determined by a fixed policy. Under identical conditions, no genuine alternative remains available to the system.
 
-In this view, the distinction is not the number of possible outputs observed by an external observer, but whether the system itself possesses a meaningful choice.
+In this view, the distinction is not the number of possible outputs observed by an external observer, but whether the system itself possesses a choice.
 
 This raises a more fundamental question:
 
